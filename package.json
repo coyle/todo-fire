@@ -1,0 +1,19 @@
+{
+  "name": "mini1-todolist",
+  "version": "0.0.0",
+  "description": "todo list",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "~0.12.2",
+    "firebase": "~2.2.2"
+  },
+  "devDependencies": {
+    "webpack": "~1.7.2",
+    "jsx-loader": "~0.12.2"
+  }
+}
